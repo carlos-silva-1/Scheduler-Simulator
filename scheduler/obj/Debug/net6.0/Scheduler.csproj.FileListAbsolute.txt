@@ -1,0 +1,36 @@
+C:\Users\Carlos\Desktop\Trab\códigos p git (REWRITE)\scheduler\bin\Debug\net6.0\Scheduler.deps.json
+C:\Users\Carlos\Desktop\Trab\códigos p git (REWRITE)\scheduler\bin\Debug\net6.0\Scheduler.dll
+C:\Users\Carlos\Desktop\Trab\códigos p git (REWRITE)\scheduler\bin\Debug\net6.0\Scheduler.pdb
+C:\Users\Carlos\Desktop\Trab\códigos p git (REWRITE)\scheduler\obj\Debug\net6.0\Scheduler.csproj.AssemblyReference.cache
+C:\Users\Carlos\Desktop\Trab\códigos p git (REWRITE)\scheduler\obj\Debug\net6.0\Scheduler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carlos\Desktop\Trab\códigos p git (REWRITE)\scheduler\obj\Debug\net6.0\Scheduler.AssemblyInfoInputs.cache
+C:\Users\Carlos\Desktop\Trab\códigos p git (REWRITE)\scheduler\obj\Debug\net6.0\Scheduler.AssemblyInfo.cs
+C:\Users\Carlos\Desktop\Trab\códigos p git (REWRITE)\scheduler\obj\Debug\net6.0\Scheduler.csproj.CoreCompileInputs.cache
+C:\Users\Carlos\Desktop\Trab\códigos p git (REWRITE)\scheduler\obj\Debug\net6.0\Scheduler.dll
+C:\Users\Carlos\Desktop\Trab\códigos p git (REWRITE)\scheduler\obj\Debug\net6.0\refint\Scheduler.dll
+C:\Users\Carlos\Desktop\Trab\códigos p git (REWRITE)\scheduler\obj\Debug\net6.0\Scheduler.pdb
+C:\Users\Carlos\Desktop\Trab\códigos p git (REWRITE)\scheduler\obj\Debug\net6.0\ref\Scheduler.dll
+C:\Users\Carlos\Documents\GitHub\SchedulerUI\scheduler\bin\Debug\net6.0\Scheduler.deps.json
+C:\Users\Carlos\Documents\GitHub\SchedulerUI\scheduler\bin\Debug\net6.0\Scheduler.dll
+C:\Users\Carlos\Documents\GitHub\SchedulerUI\scheduler\bin\Debug\net6.0\Scheduler.pdb
+C:\Users\Carlos\Documents\GitHub\SchedulerUI\scheduler\obj\Debug\net6.0\Scheduler.csproj.AssemblyReference.cache
+C:\Users\Carlos\Documents\GitHub\SchedulerUI\scheduler\obj\Debug\net6.0\Scheduler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carlos\Documents\GitHub\SchedulerUI\scheduler\obj\Debug\net6.0\Scheduler.AssemblyInfoInputs.cache
+C:\Users\Carlos\Documents\GitHub\SchedulerUI\scheduler\obj\Debug\net6.0\Scheduler.AssemblyInfo.cs
+C:\Users\Carlos\Documents\GitHub\SchedulerUI\scheduler\obj\Debug\net6.0\Scheduler.csproj.CoreCompileInputs.cache
+C:\Users\Carlos\Documents\GitHub\SchedulerUI\scheduler\obj\Debug\net6.0\Scheduler.dll
+C:\Users\Carlos\Documents\GitHub\SchedulerUI\scheduler\obj\Debug\net6.0\refint\Scheduler.dll
+C:\Users\Carlos\Documents\GitHub\SchedulerUI\scheduler\obj\Debug\net6.0\Scheduler.pdb
+C:\Users\Carlos\Documents\GitHub\SchedulerUI\scheduler\obj\Debug\net6.0\ref\Scheduler.dll
+C:\Users\Carlos\Documents\GitHub\SchedulerUI2\scheduler\bin\Debug\net6.0\Scheduler.deps.json
+C:\Users\Carlos\Documents\GitHub\SchedulerUI2\scheduler\bin\Debug\net6.0\Scheduler.dll
+C:\Users\Carlos\Documents\GitHub\SchedulerUI2\scheduler\bin\Debug\net6.0\Scheduler.pdb
+C:\Users\Carlos\Documents\GitHub\SchedulerUI2\scheduler\obj\Debug\net6.0\Scheduler.csproj.AssemblyReference.cache
+C:\Users\Carlos\Documents\GitHub\SchedulerUI2\scheduler\obj\Debug\net6.0\Scheduler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carlos\Documents\GitHub\SchedulerUI2\scheduler\obj\Debug\net6.0\Scheduler.AssemblyInfoInputs.cache
+C:\Users\Carlos\Documents\GitHub\SchedulerUI2\scheduler\obj\Debug\net6.0\Scheduler.AssemblyInfo.cs
+C:\Users\Carlos\Documents\GitHub\SchedulerUI2\scheduler\obj\Debug\net6.0\Scheduler.csproj.CoreCompileInputs.cache
+C:\Users\Carlos\Documents\GitHub\SchedulerUI2\scheduler\obj\Debug\net6.0\Scheduler.dll
+C:\Users\Carlos\Documents\GitHub\SchedulerUI2\scheduler\obj\Debug\net6.0\refint\Scheduler.dll
+C:\Users\Carlos\Documents\GitHub\SchedulerUI2\scheduler\obj\Debug\net6.0\Scheduler.pdb
+C:\Users\Carlos\Documents\GitHub\SchedulerUI2\scheduler\obj\Debug\net6.0\ref\Scheduler.dll

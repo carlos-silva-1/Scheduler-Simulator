@@ -1,0 +1,26 @@
+﻿<Application x:Class="SchedulerWPF.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:SchedulerWPF"
+             xmlns:viewModel="clr-namespace:SchedulerWPF.ViewModels"
+             xmlns:view="clr-namespace:SchedulerWPF.Views"
+             >
+    <Application.Resources>
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+                <ResourceDictionary>
+                    <local:Bootstrapper x:Key="Bootstrapper"/>
+                </ResourceDictionary>
+                <ResourceDictionary Source="Themes/ScrollBarTheme.xaml"/>
+            </ResourceDictionary.MergedDictionaries>
+
+            <DataTemplate DataType="{x:Type viewModel:ShellViewModel}">
+                <view:ShellView/>
+            </DataTemplate>
+
+            <DataTemplate DataType="{x:Type viewModel:InputViewModel}">
+                <view:InputView/>
+            </DataTemplate>
+        </ResourceDictionary>
+    </Application.Resources>
+</Application>
