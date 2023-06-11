@@ -23,19 +23,19 @@ The "Processes In The System" field displays all the processes currently in the 
 The "Log" field displays the operations made by the simulator at the last clock signal. <br/>
 The "Queues" field displays all the queues the system uses to manage the processes in the system. <br/>
 
-![Main Window](https://github.com/cadu1979/SchedulerSimulator/blob/main/instruction_imgs/1.png?raw=true)
+![Main Window](instruction_imgs/1.png)
 
 Upon clicking the "Input Data" button, the window below comes up. <br/>
 After choosing the number of processes created for the simulator, the button "Start Input" should be pressed. <br/>
 
-![Data Input Window](https://github.com/cadu1979/SchedulerSimulator/blob/main/instruction_imgs/2.png?raw=true)
+![Data Input Window](instruction_imgs/2.png)
 
 The image below shows an example of input with 5 processes. <br/>
 The scheduling algorithm can also be chosen at this stage. <br/>
 After all data has been entered, the button "Finish Input" must be pressed, closing this window. <br/>
 
-![Input Example](https://github.com/cadu1979/SchedulerSimulator/blob/main/instruction_imgs/3.png?raw=true)
+![Input Example](instruction_imgs/3.png)
 
 The image below shows the maind window of the application during execution.
 
-![App Example](https://github.com/cadu1979/SchedulerSimulator/blob/main/instruction_imgs/4.png?raw=true)
+![App Example](instruction_imgs/4.png)
